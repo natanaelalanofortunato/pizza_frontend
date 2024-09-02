@@ -1,0 +1,13 @@
+.list {
+    font-size: 18px;
+    list-style-type: none;
+    padding: 10px 0px;
+    color: var(--white);
+    text-align: center;
+}
+
+.list:hover {
+    color: var(--red-900);
+    transition: all 0.7s;
+    cursor: help;
+}
